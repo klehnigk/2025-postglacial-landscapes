@@ -22,4 +22,24 @@ Project Steps:
 * Channelized water flow
 * Sediment transport 
 
+Project Tasks:
+- [ ]  Initial maps of soil thickness, ice thickness, and bedrock elevation (L: Viet, S: Tom)
+    - [ ]  Ice & soil thickness are connected
+    - [ ]  Model ice as special bedrock, or permafrost
+    - [ ]  Make layers —> wrinkle —> slice —> tilt
+    - [ ]  Boundaries: closed at the sides, open on top & bottom
+    - [ ]  Litholayers component (might not be necessary)
+- [ ]  Moraine diffusion  (L: Lucille, S: Ari)
+    - [ ]  Diffusion will be a function of composition
+    - [ ]  DepthDependentTaylorDiffusion component
+    - [ ]  Simple diffusion (1)
+    - [ ]  Melt ice (2)
+    - [ ]  Linear diffusion (3)
+    - [ ]  When plotting, have axis limits at moraine centers
+- [ ]  Overland flow (L: Karin, S: Viet)
+- [ ]  Sediment transport (L: Shayla, S: Lucille)
+- [ ]  Vegetation (L: Tom, S: Ari)
+    - [ ]  Standard vegetation component
+- [ ]  Compiling the document (L: Ari, S: Shayla)
+
 
